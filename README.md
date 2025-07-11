@@ -4,7 +4,7 @@
 
 ---
 
-Me chamo Thiago Freitas Santana, tenho 21 anos e sou natural do Brasil.  
+Me chamo Thiago Freitas Santana, tenho 21 anos e sou natural de São paulo.  
 Estou cursando Ciências da Computação na FMU e buscando estágio para aplicar meus conhecimentos.  
 Tenho foco em Java e SQL, e busco sempre aprender e evoluir nessas áreas.
 
