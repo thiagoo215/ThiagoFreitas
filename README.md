@@ -3,10 +3,9 @@
 **Desenvolvedor Back End**
 
 ---
-
-Me chamo Thiago Freitas Santana, tenho 21 anos e sou natural de São paulo.  
-Estou cursando Ciências da Computação na FMU e buscando estágio para aplicar meus conhecimentos.  
-Tenho foco em Java e SQL, e busco sempre aprender e evoluir nessas áreas.
+Me chamo Thiago Freitas Santana, tenho 21 anos e sou natural de São Paulo.
+Atualmente curso Ciências da Computação na FMU, com foco em desenvolvimento Back End.
+Tenho forte interesse em Java e SQL, e estou comprometido em expandir meus conhecimentos e habilidades nessas tecnologias.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-freitas-santana)
 
